@@ -1,0 +1,10 @@
+version = 1
+
+test_patterns = ["gym_manager/src/test/java/com/team20/gym_manager"]
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "14"
