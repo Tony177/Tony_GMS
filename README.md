@@ -1,4 +1,7 @@
-﻿# Applicazione web gestione centro sportivo
+﻿#Not Avaible
+ The H2 Database is not avaible anymore therefore the code doesn't build successfully
+ 
+ # Applicazione web gestione centro sportivo
 
 [![Build and Test with Maven](https://github.com/IS-unina/canale-san-giovanni-team_20/workflows/Build%20and%20Test%20with%20Maven/badge.svg?branch=master)](https://github.com/IS-unina/canale-san-giovanni-team_20/actions)
 
